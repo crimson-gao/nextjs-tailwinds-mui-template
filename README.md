@@ -4,8 +4,11 @@ Components:
 `typescript` + `nextjs` + `tailwinds` + `mui (material ui)`    
 
 Extra settings:  
-`eslint` + `cssnano`(css compression) + `prettier` + `prettier-plugin-tailwindcss` + `styled-components`    
+`eslint` + `cssnano`(css compression) + `prettier` + `prettier-plugin-tailwindcss`
+## Demo
+See [demo](https://nextjs-tailwinds-mui-template.vercel.app/) here.  
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Fcrimson-gao%2Fnextjs-tailwinds-mui-template)  
 ## Getting Started
 
 First, run the development server:
